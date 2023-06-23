@@ -1,0 +1,18 @@
+div.container a{
+    text-align: center;
+    text-decoration: none;
+    color: black;
+}
+
+audio{
+    align-items: center;
+}
+
+footer{
+    background-color: black;
+}
+
+footer p{
+    color: white;
+}
+
